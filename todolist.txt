@@ -1,17 +1,29 @@
 todo list:
-1.user melakukan login ke website
-2.user menginput data diri ke website
-3.user memilih kategori pakaian yang akan di rekomendasikan
-4.system menampilkan baju yang direkomendasikan sesuai dengan data diri user dan
-kategori yang dipilih user.
+----------
+
+User										System
+1.user melakukan sign up ke website
+2.user melakukan login ke website
+3.user menginput data diri ke website
+4.user memilih kategori pakaian yang akan di rekomendasikan
+5.										system menampilkan baju yang direkomendasikan sesuai dengan data diri user dan
+										kategori yang dipilih user.
+
+
 
 Alternative path :
+------------------
 user salah menginput data diri.
-3. user menekan tombol back.
-4. menampilkan kembali page data diri.
+4. user menekan tombol back.
+5. menampilkan kembali page data diri.
 
 
 User ingin mengganti kategori pakaian yang akan direkomendasikan.
-4. user menekan tombol back
-5. user memilih kategori yang diinginkan
-6. System menampilkan pakaian sesuai kategori yang dipilih oleh user.
+5. user menekan tombol back
+6. user memilih kategori yang diinginkan
+7. System menampilkan pakaian sesuai kategori yang dipilih oleh user.
+
+
+System respon :
+---------------
+Menampilkan outfit yang direkomendasikan.
