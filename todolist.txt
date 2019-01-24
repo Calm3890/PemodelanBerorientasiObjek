@@ -15,6 +15,3 @@ User ingin mengganti kategori pakaian yang akan direkomendasikan.
 4. user menekan tombol back
 5. user memilih kategori yang diinginkan
 6. System menampilkan pakaian sesuai kategori yang dipilih oleh user.
-
-System respon :
-Menampilkan outfit yang direkomendasikan.
